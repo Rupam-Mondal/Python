@@ -1,0 +1,17 @@
+to open python just write python in terminal
+then we can write code easily
+
+to exit from shell just write exit().
+ex-->
+>>> x = 10
+>>> y = x
+>>> x
+10
+>>> y
+10
+>>> x = 15
+>>> x
+15
+>>> y
+10
+>>>
