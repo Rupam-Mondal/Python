@@ -14,3 +14,7 @@ PVM --> Python Virtual Machine
 
 Byte Code in NOT machine Code
 --> cpython , jpython , Iron Python , Stackless , PyPy
+
+to update continuosly we have to import reload
+---> from importlib import reload
+--> to reload write `reload(hello_basic)`
