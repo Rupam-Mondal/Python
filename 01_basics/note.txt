@@ -1,0 +1,16 @@
+.pyc --> compiled python (frozen binaries)
+
+__pycache__ -> to organize frozen binaries python put all .pyc in 
+                this system file __pycache__
+
+hello_basic.cpython-312.pyc (source change and python version{cpython-312 -- version 3.12})
+--> works only for imported files
+--> not for top level files
+
+python --> Interpreted language
+PVM --> Python Virtual Machine
+        Run Time Engine
+
+
+Byte Code in NOT machine Code
+--> cpython , jpython , Iron Python , Stackless , PyPy
